@@ -1,0 +1,190 @@
+label;source_name;basis;composition_mode;matrix_element;element;wt_percent
+SS405;405/1;reference_composition;balance;Fe;C;0.032
+SS405;405/1;reference_composition;balance;Fe;Si;1.71
+SS405;405/1;reference_composition;balance;Fe;Mn;1.28
+SS405;405/1;reference_composition;balance;Fe;P;0.018
+SS405;405/1;reference_composition;balance;Fe;S;0.069
+SS405;405/1;reference_composition;balance;Fe;Cr;0.15
+SS405;405/1;reference_composition;balance;Fe;Mo;0.002
+SS405;405/1;reference_composition;balance;Fe;Ni;0.22
+SS405;405/1;reference_composition;balance;Fe;Cu;0.013
+SS405;405/1;reference_composition;balance;Fe;V;0.28
+SS405;405/1;reference_composition;balance;Fe;Fe;96.226
+SS465-1;465/1;reference_composition;balance;Fe;C;0.066
+SS465-1;465/1;reference_composition;balance;Fe;Si;0.405
+SS465-1;465/1;reference_composition;balance;Fe;Mn;1.38
+SS465-1;465/1;reference_composition;balance;Fe;P;0.021
+SS465-1;465/1;reference_composition;balance;Fe;S;0.012
+SS465-1;465/1;reference_composition;balance;Fe;Cr;17.31
+SS465-1;465/1;reference_composition;balance;Fe;Mo;0.092
+SS465-1;465/1;reference_composition;balance;Fe;Ni;9.24
+SS465-1;465/1;reference_composition;balance;Fe;Al;0.026
+SS465-1;465/1;reference_composition;balance;Fe;B;0.0006
+SS465-1;465/1;reference_composition;balance;Fe;Co;0.053
+SS465-1;465/1;reference_composition;balance;Fe;Cu;0.098
+SS465-1;465/1;reference_composition;balance;Fe;N;0.01
+SS465-1;465/1;reference_composition;balance;Fe;Ti;0.4
+SS465-1;465/1;reference_composition;balance;Fe;V;0.102
+SS465-1;465/1;reference_composition;balance;Fe;Fe;70.7844
+SS467;467/1;reference_composition;balance;Fe;C;0.082
+SS467;467/1;reference_composition;balance;Fe;Si;0.52
+SS467;467/1;reference_composition;balance;Fe;Mn;0.788
+SS467;467/1;reference_composition;balance;Fe;P;0.018
+SS467;467/1;reference_composition;balance;Fe;S;0.019
+SS467;467/1;reference_composition;balance;Fe;Cr;18.09
+SS467;467/1;reference_composition;balance;Fe;Ni;9.21
+SS467;467/1;reference_composition;balance;Fe;As;0.004
+SS467;467/1;reference_composition;balance;Fe;Nb;0.99
+SS467;467/1;reference_composition;balance;Fe;Pb;0.004
+SS467;467/1;reference_composition;balance;Fe;Ta;0.0017
+SS467;467/1;reference_composition;balance;Fe;Fe;70.2733
+469;469;reference_composition;balance;Fe;C;0.279
+469;469;reference_composition;balance;Fe;Si;0.421
+469;469;reference_composition;balance;Fe;Mn;0.598
+469;469;reference_composition;balance;Fe;P;0.015
+469;469;reference_composition;balance;Fe;S;0.02
+469;469;reference_composition;balance;Fe;Cr;11.93
+469;469;reference_composition;balance;Fe;Ni;0.246
+469;469;reference_composition;balance;Fe;Co;0.01
+469;469;reference_composition;balance;Fe;Cu;0.02
+469;469;reference_composition;balance;Fe;V;0.02
+469;469;reference_composition;balance;Fe;Fe;86.441
+470;470;reference_composition;balance;Fe;C;0.153
+470;470;reference_composition;balance;Fe;Si;0.335
+470;470;reference_composition;balance;Fe;Mn;0.235
+470;470;reference_composition;balance;Fe;P;0.024
+470;470;reference_composition;balance;Fe;S;0.035
+470;470;reference_composition;balance;Fe;Cr;17.68
+470;470;reference_composition;balance;Fe;Ni;0.369
+470;470;reference_composition;balance;Fe;Co;0.02
+470;470;reference_composition;balance;Fe;Cu;0.02
+470;470;reference_composition;balance;Fe;V;0.02
+470;470;reference_composition;balance;Fe;Fe;81.10900000000001
+471;471;reference_composition;balance;Fe;C;0.095
+471;471;reference_composition;balance;Fe;Si;0.326
+471;471;reference_composition;balance;Fe;Mn;0.417
+471;471;reference_composition;balance;Fe;P;0.018
+471;471;reference_composition;balance;Fe;S;0.023
+471;471;reference_composition;balance;Fe;Cr;23.85
+471;471;reference_composition;balance;Fe;Ni;0.96
+471;471;reference_composition;balance;Fe;Co;0.02
+471;471;reference_composition;balance;Fe;Cu;0.02
+471;471;reference_composition;balance;Fe;V;0.03
+471;471;reference_composition;balance;Fe;Fe;74.241
+472;472;reference_composition;balance;Fe;C;0.227
+472;472;reference_composition;balance;Fe;Si;1.05
+472;472;reference_composition;balance;Fe;Mn;1.02
+472;472;reference_composition;balance;Fe;P;0.032
+472;472;reference_composition;balance;Fe;S;0.029
+472;472;reference_composition;balance;Fe;Cr;15.82
+472;472;reference_composition;balance;Fe;Mo;0.661
+472;472;reference_composition;balance;Fe;Ni;1.95
+472;472;reference_composition;balance;Fe;Co;0.02
+472;472;reference_composition;balance;Fe;Cu;0.02
+472;472;reference_composition;balance;Fe;V;0.02
+472;472;reference_composition;balance;Fe;Fe;79.151
+473;473;reference_composition;balance;Fe;C;0.172
+473;473;reference_composition;balance;Fe;Si;0.604
+473;473;reference_composition;balance;Fe;Mn;0.494
+473;473;reference_composition;balance;Fe;P;0.019
+473;473;reference_composition;balance;Fe;S;0.03
+473;473;reference_composition;balance;Fe;Cr;9.06
+473;473;reference_composition;balance;Fe;Mo;0.95
+473;473;reference_composition;balance;Fe;Ni;0.06
+473;473;reference_composition;balance;Fe;Co;0.01
+473;473;reference_composition;balance;Fe;Cu;0.03
+473;473;reference_composition;balance;Fe;V;0.02
+473;473;reference_composition;balance;Fe;Fe;88.551
+551;551;reference_composition_reported;reported;Cu;Cu;87.4
+551;551;reference_composition_reported;reported;Cu;Sn;8.92
+551;551;reference_composition_reported;reported;Cu;P;1.01
+551;551;reference_composition_reported;reported;Cu;Pb;0.79
+551;551;reference_composition_reported;reported;Cu;Ni;0.76
+551;551;reference_composition_reported;reported;Cu;Zn;0.74
+551;551;reference_composition_reported;reported;Cu;Fe;0.2
+551;551;reference_composition_reported;reported;Cu;Si;0.018
+551;551;reference_composition_reported;reported;Cu;Al;0.052
+552;552;reference_composition_reported;reported;Cu;Cu;87.7
+552;552;reference_composition_reported;reported;Cu;Sn;9.78
+552;552;reference_composition_reported;reported;Cu;P;0.77
+552;552;reference_composition_reported;reported;Cu;Pb;0.63
+552;552;reference_composition_reported;reported;Cu;Ni;0.56
+552;552;reference_composition_reported;reported;Cu;Zn;0.35
+552;552;reference_composition_reported;reported;Cu;Fe;0.1
+552;552;reference_composition_reported;reported;Cu;Si;0.019
+552;552;reference_composition_reported;reported;Cu;Al;0.023
+553;553;reference_composition_reported;reported;Cu;Cu;87.0
+553;553;reference_composition_reported;reported;Cu;Sn;10.8
+553;553;reference_composition_reported;reported;Cu;P;0.68
+553;553;reference_composition_reported;reported;Cu;Pb;0.47
+553;553;reference_composition_reported;reported;Cu;Ni;0.44
+553;553;reference_composition_reported;reported;Cu;Zn;0.49
+553;553;reference_composition_reported;reported;Cu;Fe;0.056
+553;553;reference_composition_reported;reported;Cu;Si;0.022
+553;553;reference_composition_reported;reported;Cu;Al;0.017
+554;554;reference_composition_reported;reported;Cu;Cu;87.4
+554;554;reference_composition_reported;reported;Cu;Sn;11.3
+554;554;reference_composition_reported;reported;Cu;P;0.41
+554;554;reference_composition_reported;reported;Cu;Pb;0.34
+554;554;reference_composition_reported;reported;Cu;Ni;0.22
+554;554;reference_composition_reported;reported;Cu;Zn;0.22
+554;554;reference_composition_reported;reported;Cu;Fe;0.022
+554;554;reference_composition_reported;reported;Cu;Si;0.038
+554;554;reference_composition_reported;reported;Cu;Al;0.005
+555;555;reference_composition_reported;reported;Cu;Cu;87.1
+555;555;reference_composition_reported;reported;Cu;Sn;12.1
+555;555;reference_composition_reported;reported;Cu;P;0.18
+555;555;reference_composition_reported;reported;Cu;Pb;0.24
+555;555;reference_composition_reported;reported;Cu;Ni;0.11
+555;555;reference_composition_reported;reported;Cu;Zn;0.16
+555;555;reference_composition_reported;reported;Cu;Fe;0.01
+555;555;reference_composition_reported;reported;Cu;Si;0.036
+556;556;reference_composition_reported;reported;Cu;Cu;86.4
+556;556;reference_composition_reported;reported;Cu;Sn;13.2
+556;556;reference_composition_reported;reported;Cu;P;0.1
+556;556;reference_composition_reported;reported;Cu;Pb;0.16
+556;556;reference_composition_reported;reported;Cu;Ni;0.014
+556;556;reference_composition_reported;reported;Cu;Zn;0.09
+556;556;reference_composition_reported;reported;Cu;Fe;0.004
+Al_ENAS-42000-1;EN AC-42000;lower_bound_specification;balance;Al;Si;6.5
+Al_ENAS-42000-1;EN AC-42000;lower_bound_specification;balance;Al;Mg;0.2
+Al_ENAS-42000-1;EN AC-42000;lower_bound_specification;balance;Al;Al;93.3
+M2-7_A3;M 2/7 A3;lower_bound_specification;balance;Fe;C;0.8
+M2-7_A3;M 2/7 A3;lower_bound_specification;balance;Fe;Si;0.2
+M2-7_A3;M 2/7 A3;lower_bound_specification;balance;Fe;Mn;0.15
+M2-7_A3;M 2/7 A3;lower_bound_specification;balance;Fe;Cr;3.75
+M2-7_A3;M 2/7 A3;lower_bound_specification;balance;Fe;Mo;4.5
+M2-7_A3;M 2/7 A3;lower_bound_specification;balance;Fe;W;5.5
+M2-7_A3;M 2/7 A3;lower_bound_specification;balance;Fe;V;1.75
+M2-7_A3;M 2/7 A3;lower_bound_specification;balance;Fe;Fe;83.35
+1-3974;1.3974;lower_bound_grade_specification;balance;Fe;Cr;21.0
+1-3974;1.3974;lower_bound_grade_specification;balance;Fe;Ni;15.5
+1-3974;1.3974;lower_bound_grade_specification;balance;Fe;Mo;2.8
+1-3974;1.3974;lower_bound_grade_specification;balance;Fe;Mn;4.5
+1-3974;1.3974;lower_bound_grade_specification;balance;Fe;N;0.3
+1-3974;1.3974;lower_bound_grade_specification;balance;Fe;Nb;0.1
+1-3974;1.3974;lower_bound_grade_specification;balance;Fe;Fe;55.800000000000004
+1-4301;1.4301 / 304;lower_bound_grade_specification;balance;Fe;Cr;17.5
+1-4301;1.4301 / 304;lower_bound_grade_specification;balance;Fe;Ni;8.0
+1-4301;1.4301 / 304;lower_bound_grade_specification;balance;Fe;Fe;74.5
+1-4404;1.4404 / 316L;lower_bound_grade_specification;balance;Fe;Cr;16.5
+1-4404;1.4404 / 316L;lower_bound_grade_specification;balance;Fe;Ni;10.0
+1-4404;1.4404 / 316L;lower_bound_grade_specification;balance;Fe;Mo;2.0
+1-4404;1.4404 / 316L;lower_bound_grade_specification;balance;Fe;Fe;71.5
+1-4462;1.4462 / 2205 Duplex;lower_bound_grade_specification;balance;Fe;Cr;21.0
+1-4462;1.4462 / 2205 Duplex;lower_bound_grade_specification;balance;Fe;Ni;4.5
+1-4462;1.4462 / 2205 Duplex;lower_bound_grade_specification;balance;Fe;Mo;2.5
+1-4462;1.4462 / 2205 Duplex;lower_bound_grade_specification;balance;Fe;N;0.1
+1-4462;1.4462 / 2205 Duplex;lower_bound_grade_specification;balance;Fe;Fe;71.9
+1-4539;1.4539 / 904L;lower_bound_grade_specification;balance;Fe;Cr;19.0
+1-4539;1.4539 / 904L;lower_bound_grade_specification;balance;Fe;Ni;24.0
+1-4539;1.4539 / 904L;lower_bound_grade_specification;balance;Fe;Mo;4.0
+1-4539;1.4539 / 904L;lower_bound_grade_specification;balance;Fe;Cu;1.2
+1-4539;1.4539 / 904L;lower_bound_grade_specification;balance;Fe;Fe;51.8
+1-4860;1.4860 / NiCr 30 20;lower_bound_grade_specification;balance;Fe;Ni;30.0
+1-4860;1.4860 / NiCr 30 20;lower_bound_grade_specification;balance;Fe;Cr;19.5
+1-4860;1.4860 / NiCr 30 20;lower_bound_grade_specification;balance;Fe;Fe;50.5
+2-4605;2.4605 / Alloy 59;lower_bound_grade_specification;balance;Ni;Cr;22.0
+2-4605;2.4605 / Alloy 59;lower_bound_grade_specification;balance;Ni;Mo;15.0
+2-4605;2.4605 / Alloy 59;lower_bound_grade_specification;balance;Ni;Al;0.1
+2-4605;2.4605 / Alloy 59;lower_bound_grade_specification;balance;Ni;Ni;62.9
